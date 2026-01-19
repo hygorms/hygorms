@@ -1,16 +1,9 @@
 <!--O corpo do texto tem que falar de mim, precisa ter as linguagens que mais utilizo e minhas perspectivas dentre outras caracteristicas. Precisa ter um a aba de contato e talvez um apoi-me-->
 
-<div style="align-items:center;display:flex;justify-content:center">
-
-<img style="padding:5px" src= ./assets/BlackAndWhiteAnimationGIFbyxponentialdesign.gif width = 5%>
 
 # Olá, me chamo Hygor👋
 
-<img style="padding:5px" src= ./assets/BlackAndWhiteLoopGIFbyxponentialdesign.gif width = 5%>
-
-</div>
-
-***
+</br></br>
 
 <div align=center>
 
@@ -38,7 +31,6 @@
 
 ## Sobre mim 👓
 
-***
 
 Tô na correria total pra virar Cientista de Dados e tô AMANDO cada segundo dessa jornada! 📊🔥
 Ainda não decidi 100% em qual área de dados eu vou mergulhar de cabeça (tem tantas opções incríveis!), mas uma coisa é certa: vou chegar lá com tudo! 💪✨
@@ -55,7 +47,6 @@ Hygor.Codes 😄
 
 ## 🧑‍💻 Tecnologia que mais utilizo 
 
-***
 
 | Nível | Tecnologia                                              |
 | ------ | :----------:                                           |
@@ -68,7 +59,6 @@ Hygor.Codes 😄
 
 ## Principais projetos 🧰
 
-***
 
 Como ainda estou no começo, ainda não tenho muito a aprensentar 🥹
 Mas, isso não é motivo para frequejos ✨
@@ -79,7 +69,6 @@ Mas, isso não é motivo para frequejos ✨
 
 ## Estatísticas GitHub
 
-***
 
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hygorms&layout=compact&langs_count=8&theme=ambient_gradient"/>
 
@@ -91,16 +80,11 @@ Mas, isso não é motivo para frequejos ✨
 
 <br/>
 
-<div id="contateme" style="display:flex;gap:5px;width:25%">
-
+<p id="contateme" style="display:flex;gap:5px;width:25%">
 <a href="https://x.com/hygorcodes"><img src="./img/twitter.png"/></a>
-
 <a href="https://www.linkedin.com/in/hygor-melo-de-sena-253007387/"><img src="./img/linkedin.png"/></a>
-
 <a href="https://www.instagram.com/hygor.codes/"><img src="./img/instagram.png"/></a>
-
 <a href="mailto:senahygor.pe@proton.me"><img src="./img/email.png"/></a>
-
 <a href="mailto:senahygor.pe@proton.me"><img src="./img/paypal.png"/></a>
 
 <!-- <img style="padding:5px" src="./assets/HeartLoveGIFbyDataCamp.gif" width=20%>
@@ -110,9 +94,6 @@ Apoi-me através do link abaixo -->
 <!-- <a href="https://www.flaticon.com/free-icons/instagram-logo" title="instagram logo icons">Instagram logo icons created by Laisa Islam Ani - Flaticon</a> -->
 <!-- <a href="https://www.flaticon.com/free-icons/linkedin" title="linkedin icons">Linkedin icons created by Freepik - Flaticon</a> -->
 <!-- <a href="https://www.flaticon.com/free-icons/paypal" title="paypal icons">Paypal icons created by Freepik - Flaticon</a> -->
-
-</div>
-
 <br/><br/>
 
 
