@@ -45,7 +45,7 @@ Hygor.Codes 😄
 
 <img align="right" src="./assets/Coding Work From Home GIF by Persona.gif" width="150"/>
 
-<br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/>
 
 
 ## 🧑‍💻 Tecnologia que mais utilizo 
