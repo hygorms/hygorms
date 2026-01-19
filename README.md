@@ -70,12 +70,9 @@ Mas, isso não é motivo para frequejos ✨
 ## Estatísticas GitHub
 
 <p align="left">
-<a href="">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=hygorms&theme=flag-india" />
-</a>
-<a href="">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hygorms&layout=compact&langs_count=8&card_width=320&theme=flag-india" />
-</a>
+
 
 
 <!-- <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hygorms&layout=compact&langs_count=8&theme=ambient_gradient"/> -->
