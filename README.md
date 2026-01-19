@@ -84,8 +84,8 @@ Mas, isso não é motivo para frequejos ✨
 <a href="https://x.com/hygorcodes" target="_blank" ><img align="center" src="./img/twitter.png" height=40 width=40/></a>
 <a href="https://www.linkedin.com/in/hygor-melo-de-sena-253007387/" target="_blank" ><img align="center" src="./img/linkedin.png" height=40 width=40 /></a>
 <a href="https://www.instagram.com/hygor.codes/" target="_blank"><img align="center" src="./img/instagram.png" height=40 width=40 /></a>
-<a href="mailto:senahygor.pe@proton.me" target="_blank"><img align="center" src="./img/email.png" height=40 width=40 /></a>
-<a href="mailto:senahygor.pe@proton.me" target="_blank"><img align="center" src="./img/paypal.png" height=40 width=40 /></a>
+<a href="mailto:senahygor.pe@proton.me" target="_blank"><img align="center" src="./img/email-verde.png" height=40 width=40 /></a>
+<a href="https://www.paypal.com/donate/?business=UGAK4MNFZ5XH2&no_recurring=0&item_name=Existem+formas+de+agradecer.+Se+eu+ti+ajudei+de+alguma+forma+e+sente+que+gostaria+de+agradecer+com+algum+valor%2C+fico+grato.&currency_code=BRL" target="_blank"><img align="center" src="./img/paypal.png" height=40 width=40 /></a>
 
 
 
@@ -103,21 +103,15 @@ Apoi-me através do link abaixo -->
 
 <summary><b> 🪛 Ferramentas Utilizadas</b></summary>
 
-```
------BEGIN PGP PUBLIC KEY BLOCK-----
+</br>
 
-mDMEaSH1EhYJKwYBBAHaRw8BAQdAhxrZ6MrD5eVUZsTOnPL2pmpOe3b7+Pb19Rn8
-imxIJA20JEh5Z29yIE1TZW5hIDxzZW5haHlnb3IucGVAcHJvdG9uLm1lPoiZBBMW
-CgBBFiEEOCx8mb3i2RCWJHuHRoe3UEjNrUIFAmkh9RICGwMFCQWkxt4FCwkIBwIC
-IgIGFQoJCAsCBBYCAwECHgcCF4AACgkQRoe3UEjNrUJulgD9Fu+OBpVq0nArY14y
-0Uz+47IjwV2anCRwb7u/Bdcs0SsBALyEo/iLwKKlaMKesBMe/88H6gCsx5CGxceG
-BdB/G20EuDgEaSH1EhIKKwYBBAGXVQEFAQEHQJ9SstD2wUwmMwiTL/hNXLqtcXvX
-AcunZb71j5mjycEEAwEIB4h+BBgWCgAmFiEEOCx8mb3i2RCWJHuHRoe3UEjNrUIF
-Amkh9RICGwwFCQWkxt4ACgkQRoe3UEjNrUIzygD/fKVAtbgLtGQ0ODd8maoblFHS
-eBmf+yxSbvB8gPfA2T8A/3lJC8mRCASx1yqn/RtP70kWLTgSnqJiZNgQY9LCOSQK
-=lNnR
------END PGP PUBLIC KEY BLOCK-----
-```
+<p align="left">
+<a href="https://git-scm.com/" target="_blank" ><img align="center" src="./img/social.png" height=40 width=40/></a>
+<a href="https://code.visualstudio.com/" target="_blank" ><img align="center" src="./img/512px-Visual_Studio_Code_1.35_icon.svg.png" height=40 width=40/></a>
+
+<!-- <a href="https://www.flaticon.com/free-icons/git" title="git icons">Git icons created by pocike - Flaticon</a> -->
+
+
 </details>
 
 <details>
