@@ -69,8 +69,16 @@ Mas, isso não é motivo para frequejos ✨
 
 ## Estatísticas GitHub
 
+<p align="left">
+<a href="">
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=hygorms&theme=flag-india" />
+</a>
+<a href="">
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hygorms&layout=compact&langs_count=8&card_width=320&theme=flag-india" />
+</a>
 
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hygorms&layout=compact&langs_count=8&theme=ambient_gradient"/>
+
+<!-- <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hygorms&layout=compact&langs_count=8&theme=ambient_gradient"/> -->
 
 
 
@@ -108,6 +116,11 @@ Apoi-me através do link abaixo -->
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" ><img align="center" src="./img/social.png" height=40 width=40/></a>
 <a href="https://code.visualstudio.com/" target="_blank" ><img align="center" src="./img/512px-Visual_Studio_Code_1.35_icon.svg.png" height=40 width=40/></a>
+<a href="https://anaconda.org/" target="_blank" ><img align="center" src="./img/Anaconda.svg" height=40 width=40/></a>
+<a href="https://jupyter.org/" target="_blank" ><img align="center" src="./img/Jupyter.svg" height=40 width=40/></a>
+<a href="https://cloud.google.com/?hl=pt-BR" target="_blank" ><img align="center" src="./img/Google Cloud.svg" height=40 width=40/></a>
+<a href="https://www.texstudio.org/" target="_blank" ><img align="center" src="./img/TeXstudio_Logo.svg" height=40 width=40/></a>
+
 
 <!-- <a href="https://www.flaticon.com/free-icons/git" title="git icons">Git icons created by pocike - Flaticon</a> -->
 
