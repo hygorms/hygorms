@@ -63,7 +63,7 @@ Hygor.Codes 😄
 ## Principais projetos 🧰
 
 <p align="right">
-Como ainda estou no começo, ainda não tenho muito a aprensentar 🥹
+Como ainda estou no começo não tenho muito a aprensentar 🥹
 Mas, isso não é motivo para frequejos ✨
 <br/>
 <a href="https://github.com/hygorms?tab=repositories" target="blank">Pode acompanhar o que estou fazendo aqui</a>
