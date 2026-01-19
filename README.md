@@ -35,6 +35,8 @@
 Tô na correria total pra virar Cientista de Dados e tô AMANDO cada segundo dessa jornada! 📊🔥
 Ainda não decidi 100% em qual área de dados eu vou mergulhar de cabeça (tem tantas opções incríveis!), mas uma coisa é certa: vou chegar lá com tudo! 💪✨
 
+<img align="right" src="./assets/Coding Work From Home GIF by Persona.gif" width="150"/>
+
 Meu GitHub é tipo meu diário open-source da evolução:
 tudo que eu aprendo + meus projetinhos vão aparecendo por lá! 🐙💜
 É só dar uma passadinha pra ver o progresso acontecendo em tempo real!
@@ -44,6 +46,7 @@ Abraço do futuro cientista de dados,
 Hygor.Codes 😄
 
 <br/>
+
 
 ## 🧑‍💻 Tecnologia que mais utilizo 
 
@@ -59,13 +62,20 @@ Hygor.Codes 😄
 
 ## Principais projetos 🧰
 
-
+<p align="right">
 Como ainda estou no começo, ainda não tenho muito a aprensentar 🥹
 Mas, isso não é motivo para frequejos ✨
+<br/>
+<a href="https://github.com/hygorms?tab=repositories" target="blank">Pode acompanhar o que estou fazendo aqui</a>
 
-[Pode acompanhar o que estou fazendo aqui](https://github.com/hygorms?tab=repositories)
+<br/>
 
-<br/><br/>
+<img align="left" src="./assets/Tech Coding GIF by Persona.gif" width="150"/>
+
+<!-- [Pode acompanhar o que estou fazendo aqui](https://github.com/hygorms?tab=repositories) -->
+
+<br/><br/><br/><br/><br/><br/>
+
 
 ## Estatísticas GitHub
 
